@@ -14,15 +14,12 @@ This project is a Single Page Application (SPA) built with React, Tailwind CSS, 
 
 <h2>Technology Stack</h4>
 
-<p><h3>React:</h3> For building the SPA architecture and component-based UI.</p>
-<h3>Tailwind CSS:</h3> For crafting elegant, utility-first CSS designs.
-<h3>Vite:</h3> As the build tool for a fast and efficient development environment.
-
 - **React**: For building the SPA architecture and component-based UI.
 - **Tailwind CSS**: For crafting elegant, utility-first CSS designs.
 - **Vite**: As the build tool for a fast and efficient development environment.
 
 <h2>Purpose</h4>
+
 This project serves as a portfolio piece to demonstrate my proficiency in Tailwind CSS and modern frontend development workflows. It showcases my ability to design and implement responsive layouts, interactive elements, and a seamless user experience.
 
 <h2>What's inside?</h4>
