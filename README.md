@@ -10,7 +10,7 @@ This project is a Single Page Application (SPA) built with React, Tailwind CSS, 
 - **Custom Components**: Built entirely with Tailwind CSS classes, demonstrating its flexibility and power.
 - **Fast Development & Build**: Utilized Vite for a blazing fast development server and optimized production builds.
 - **Lightweight and Modern**: Focused on clean code and modern best practices.
-
+- **Dark and Light Mode**: Supports both dark and light themes for an enhanced user experience, demonstrating dynamic styling with Tailwind CSS.
 
 <h2>Technology Stack</h4>
 
