@@ -3,15 +3,14 @@
 <h1>Tailwind CSS Showcase - Single Page Application</h3>
 This project is a Single Page Application (SPA) built with React, Tailwind CSS, and Vite. It was designed to showcase my skills in using Tailwind CSS to create responsive, modern, and aesthetically pleasing web designs.
 
+
 <h2>Features</h4>
 
-<h3>Responsive Design:</h3> Optimized for all screen sizes, from mobile to desktop.
+- **Responsive Design**: Optimized for all screen sizes, from mobile to desktop.
+- **Custom Components**: Built entirely with Tailwind CSS classes, demonstrating its flexibility and power.
+- **Fast Development & Build**: Utilized Vite for a blazing fast development server and optimized production builds.
+- **Lightweight and Modern**: Focused on clean code and modern best practices.
 
-<h3>Custom Components:</h3>&nbsp;Built entirely with Tailwind CSS classes, demonstrating its flexibility and power.
-
-<h3>Fast Development & Build:</h3> Utilized Vite for a blazing fast development server and optimized production builds.
-
-<h3>Lightweight and Modern:</h3> Focused on clean code and modern best practices.
 
 <h2>Technology Stack</h4>
 
