@@ -4,10 +4,14 @@
 This project is a Single Page Application (SPA) built with React, Tailwind CSS, and Vite. It was designed to showcase my skills in using Tailwind CSS to create responsive, modern, and aesthetically pleasing web designs.
 
 <h2>Features</h4>
-<p><h3>Responsive Design:</h3> Optimized for all screen sizes, from mobile to desktop.</p>
-<p><h3>Custom Components:</h3> Built entirely with Tailwind CSS classes, demonstrating its flexibility and power.</p>
-<p><h3>Fast Development & Build:</h3> Utilized Vite for a blazing fast development server and optimized production builds.</p>
-<p><h3>Lightweight and Modern:</h3> Focused on clean code and modern best practices.</p>
+
+<h3>Responsive Design:</h3> Optimized for all screen sizes, from mobile to desktop.
+
+<h3>Custom Components:</h3> <span>Built entirely with Tailwind CSS classes, demonstrating its flexibility and power.</span>
+
+<h3>Fast Development & Build:</h3> Utilized Vite for a blazing fast development server and optimized production builds.
+
+<h3>Lightweight and Modern:</h3> Focused on clean code and modern best practices.
 
 <h2>Technology Stack</h4>
 <p><h3>React:</h3> For building the SPA architecture and component-based UI.</p>
